@@ -1,6 +1,8 @@
 # Lead-The-Way
 
-* Welcome!
+
+-----------------------------------------------------------------------
+## Welcome!
 
 * Horiseon is a marketing agency.
 
@@ -12,9 +14,7 @@
 -----------------------------------------------------------------------
 
 
->Repository link:
-
-[GitHub](https://hayvant.github.io/Lead-The-Way/)
+>Repository link: [Lead The Way](https://hayvant.github.io/Lead-The-Way/)
 
 
-![Horiseon screenshot](./Homework-img/Horiseon-Screenshot.png)
+![Horiseon screenshot](/Homework-img/Horiseon-Screenshot.png)
