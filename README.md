@@ -8,7 +8,7 @@
 
 * You will find this application follows accessibility standards and is optimized for search engines.
 
-* We have considered web accessibility to ensure that people with disabilities can access a website using assistive technoligies. 
+* We have considered web accessibility to ensure that people with disabilities can access a website using assistive technologies. 
 
 * Application links are functioning properly, along with CSS properties that are consolidated and organized to follow semantic structure. 
 -----------------------------------------------------------------------
