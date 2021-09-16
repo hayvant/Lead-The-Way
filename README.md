@@ -1,7 +1,7 @@
 # Lead-The-Way
 
 
------------------------------------------------------------------------
+
 ## Welcome!
 
 * Horiseon is a marketing agency.
@@ -10,13 +10,14 @@
 
 * We have concidered web accessibility to ensure that people with disabilities can access a website using assistive technoligies. 
 
-* Applicatjion links are functioning properly, along with CSS properties that are consolidated and organized to follow semantic structure. 
+* Application links are functioning properly, along with CSS properties that are consolidated and organized to follow semantic structure. 
 -----------------------------------------------------------------------
 
 
 >Repository link: [Lead The Way](https://hayvant.github.io/Lead-The-Way/)
 
 
-![Horiseon screenshot](/Homework-img/Horiseon-Screenshot.png)
+![Horiseon screenshot]("./Images/Horiseon-Screenshot.png")
+
 
 -----------------------------------------------------------------------
